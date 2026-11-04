@@ -1,5 +1,7 @@
 # Certivo — Digital Certificate Generator UI
 
+> 📘 **Case study:** [raqueeb.dev/projects/certificate-generator](https://raqueeb.dev/projects/certificate-generator) — architecture, stack and implementation notes.
+
 AAT-1 · Full Stack Web Development · HTML + CSS + JavaScript (no frameworks)
 
 A digital certificate generator wrapped in an e-commerce flow. The "products" are
